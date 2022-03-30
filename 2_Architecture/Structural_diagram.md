@@ -3,7 +3,8 @@
 
 * It shows the things in the system – classes, objects, packages or modules, physical nodes, components, and interfaces.
 
- https://user-images.githubusercontent.com/101585225/159698834-ac5efe69-46da-4aed-9914-6cbb26edc87b.png
+ ![image](https://user-images.githubusercontent.com/101167980/160796363-92eb46a8-3716-479b-a86e-d31d2eeaf15b.png)
+
 
 * In the above diagram describe the structural and behaviour diagram
 
