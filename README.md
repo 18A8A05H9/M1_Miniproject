@@ -8,3 +8,4 @@ Naming convention:"M1_Tictactoe"
  [![Git Inspector](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Inspector.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Inspector.yml)
  [![Unit Testing - Unity](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Unittest.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Unittest.yml)
  [![CodeQuality-Valgrind](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Valgrind.yml)
+ ![codiga](https://api.codiga.io/project/32360/status/svg)
