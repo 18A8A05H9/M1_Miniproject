@@ -6,3 +6,4 @@ Naming convention:"M1_Tictactoe"
   [![Analysis](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Analysis.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Analysis.yml)
  [![Code Quality - Cppcheck](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Cppcheck.yml)
  [![Git Inspector](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Inspector.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Inspector.yml)
+ [![Unit Testing - Unity](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Unittest.yml/badge.svg)](https://github.com/18A8A05H9/M1_TicTacToe/actions/workflows/Unittest.yml)
